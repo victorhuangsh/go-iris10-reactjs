@@ -1,0 +1,7 @@
+Charset: UTF-8
+
+Other:
+  RuntimeMode: 0
+  H5Host: 127.0.0.1:3000
+  GOHost: 127.0.0.1:8080
+  LogPath: ./logs
